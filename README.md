@@ -18,7 +18,7 @@ This project provides an interactive tool for drawing Bézier curves and exporti
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bezier-curve-designer.git
+   git clone https://github.com/1Rosion/Draw_Bezier_Curves.git
    ```
 
 2. Navigate to the project directory:
