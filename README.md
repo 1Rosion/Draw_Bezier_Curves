@@ -28,7 +28,7 @@ This project provides an interactive tool for drawing Bézier curves and exporti
 
 3. Open `index.html` in your browser:
    - No dependencies required; it's a fully standalone tool!
-## OR use this link **https://1rosion.github.io/Draw_Bezier_Curves/** 
+### OR use this link **https://1rosion.github.io/Draw_Bezier_Curves/** 
 ---
 
 ## Usage
